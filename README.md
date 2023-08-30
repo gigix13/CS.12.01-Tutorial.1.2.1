@@ -1,3 +1,4 @@
+I DID THIS WITH ANNA DEAD-MAN
 # CS.12.01-Tutorial.1.2.1
 
 This question involves the implementation of a fitness tracking system that is represented by the StepTracker class. A StepTracker object is created with a parameter that defines the minimum number of steps that must be taken for a day to be considered active. 
